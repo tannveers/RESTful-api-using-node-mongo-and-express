@@ -1,0 +1,3 @@
+{
+  "link_to_db": "mongodb+srv://tanveer:1234@cluster0-h1wu6.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
